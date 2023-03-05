@@ -1,14 +1,12 @@
 import React from 'react';
-import ReactDOM from 'react-dom/client';
-import './index.css';
+import ReactDOM from 'react-dom';
+import './css/index.css';
 import App from './App';
-//import reportWebVitals from './reportWebVitals';
-
 //import * as React from 'react'
 //import ReactDOM from 'react-dom'
-//import CssBaseline from '@mui/material/CssBaseline'
-//import App from './App'
-//import './css/index.css'
+ import CssBaseline from '@mui/material/CssBaseline'
+// import App from './App'
+import './css/index.css'
 
 ReactDOM.render(
   <React.Fragment>
